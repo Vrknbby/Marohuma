@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="imagen">
+    <file>empleado.png</file>
+    <file>Fondo.png</file>
+    <file>cerrar-sesion.png</file>
+    <file>construccion.png</file>
+    <file>153322637_4259998774029920_6069606977171537293_n (2).jpg</file>
+    <file>usuario-de-perfil.png</file>
+    <file>usuario.png</file>
+    <file>documento.png</file>
+    <file>inventario-disponible.png</file>
+    <file>navegacion.png</file>
+    <file>verificar.png</file>
+  </qresource>
+</RCC>

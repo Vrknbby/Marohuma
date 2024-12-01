@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>marohuma.jpg</file>
+    <file>Marohuma_icono.png</file>
+  </qresource>
+</RCC>
